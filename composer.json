@@ -26,7 +26,8 @@
     ],
     "require": {
         "php": ">=8.2",
-        "yiisoft/yii2": "^2.0.15"
+        "yiisoft/yii2": "^2.0.15",
+        "web-auth/webauthn-lib": "^4.7.0"
     },
     "autoload": {
         "psr-4": {

@@ -25,7 +25,7 @@
         }
     ],
     "require": {
-        "php": ">=8.2",
+        "php": ">=8.1",
         "yiisoft/yii2": "^2.0.15",
         "web-auth/webauthn-lib": "^4.7.0"
     },
